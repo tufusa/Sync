@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerSensor
+  - Gimmick
+  - Zone
+  - Stage
+  - Area
+  - Title
+  - Grid
+  - Pause
+  - Panel
+  - Config
+  - Decoy
+  - Progress
+  - Floor
+  - ZoneProgress
+  - TYFP
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pause
+  - Config
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3000707145
+    locked: 0
+  - name: Gimmick
+    uniqueID: 282220441
+    locked: 0
+  - name: Player
+    uniqueID: 3540333539
+    locked: 0
+  - name: Progress
+    uniqueID: 894487403
+    locked: 0
+  - name: Pause
+    uniqueID: 2697630323
+    locked: 0
+  - name: Config
+    uniqueID: 2330185227
+    locked: 0
+  - name: Thankyou
+    uniqueID: 3055034581
+    locked: 0
+  - name: TheEnd
+    uniqueID: 3741556155
+    locked: 0
